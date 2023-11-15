@@ -32,9 +32,9 @@ defmodule LiveElements.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:phoenix, "~> 1.7.1"},
+      {:phoenix, "~> 1.7.2"},
       {:ex_doc, ">= 0.0.0"},
-      {:phoenix_live_view, "~> 0.18.15"},
+      {:phoenix_live_view, "~> 0.20.1"},
       {:jason, ">= 0.0.0"},
       {:uuid, "~> 1.1" }
     ]
